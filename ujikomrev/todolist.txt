@@ -1,0 +1,13 @@
+TINGGAL HALAMAN
+hasil pemungutan suara (pemenang pemungutan suara)
+management akun
+tambah akun kandidat
+edit akun kandidat
+tambah akun panitia
+edit akun panitia
+laporan hasil pemungutan suara (siapa saja yg memberi suara, total suara dari tiap kandidat)
+
+FLOW
+admin harus memvalidasi dari halaman laporan hasil diteruskan menampilkan pemenang di halaman hasil pemungutan suara
+laporan harus bisa di print
+kandidat dibuatkan akun oleh panitia dan kandidat mengisi data diri sendiri saat login akun pertama kali
